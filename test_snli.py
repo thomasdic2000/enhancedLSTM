@@ -1,7 +1,6 @@
 """
 Test the ESIM model on some preprocessed dataset.
 """
-# Aurelien Coet, 2018.
 
 import time
 import pickle
