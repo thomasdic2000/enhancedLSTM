@@ -1,7 +1,11 @@
-### Attention Mechanism-based Text Matching: Enhanced LSTM
+# Attention Mechanism-based Text Matching: Enhanced LSTM
 
 Natural Language Inference (NLI) is concerned with determining whether a natural language hypothesis can be inferred (entailed) from a premise.
 Bi-directional Attention Mechanism.
+
+Illustration of high-level Model Architecture
+![esim](https://user-images.githubusercontent.com/231075/129505805-53abf5b2-4631-41cd-a045-3b70d1896841.png)
+
 
 ## Reference
 
@@ -11,3 +15,4 @@ Bi-directional Attention Mechanism.
 ## TO-RUN:
 
 Training：python train.py<br />
+Testing: python test.py<br />
